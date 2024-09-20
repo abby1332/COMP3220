@@ -1,0 +1,33 @@
+alphabetic x
+whitespace  
+= =
+whitespace  
+numeric 3
+whitespace 
+alphabetic y
+whitespace  
+= =
+whitespace  
+numeric 5
+whitespace 
+alphabetic z
+whitespace  
+= =
+whitespace  
+( (
+alphabetic x
+whitespace  
++ +
+whitespace  
+alphabetic y
+)  
+whitespace  
+/ /
+whitespace  
+numeric 3
+whitespace 
+print print
+whitespace  
+alphabetic z
+whitespace 
+eof eof
